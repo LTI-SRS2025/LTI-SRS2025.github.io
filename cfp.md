@@ -22,7 +22,7 @@ Coming Soon!
 **Deadline for paper submission**: February 21, 2025 <br>
 **Notification:** March 21, 2025 <br>
 **Camera Ready:** April 4, 2025 <br>
-**Workshop:** Friday, April 18, 2025, GHC 6115 9:00am-5:00pm
+**Symposium:** Friday, April 18, 2025, GHC 6115 9:00am-5:00pm
 
 ### Topics of Interest
 For a list of relevant submission topics, see the submission topics under [EMNLP 2024’s call for papers](https://2024.emnlp.org/calls/main_conference_papers/) as well as [COLM 2025’s call for papers](https://colmweb.org/cfp.html). These include (but are not limited to):
