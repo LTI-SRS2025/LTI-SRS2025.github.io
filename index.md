@@ -93,7 +93,7 @@ Faculty Members:
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   <!-- <br> 
   <div class="row" style="margin: -30px;"> -->
-  <div class="row" style="gap: 15px;"> 
+  <div class="row" style="gap: 40px;"> 
     {% for p in site.data.organizers %}
     {% if forloop.index<=3 %}
     {% capture id %}{{ p[0] }}{% endcapture %}
@@ -104,7 +104,7 @@ Faculty Members:
 </div>
 Student Members:
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
-  <div class="row" style="gap: 15px;"> 
+  <div class="row" style="gap: 40px;"> 
     {% for p in site.data.organizers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% if forloop.index>3 and forloop.index<=6%}
