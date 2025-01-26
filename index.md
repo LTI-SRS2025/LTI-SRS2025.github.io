@@ -135,4 +135,4 @@ Coming Soon!
 
 <hr> -->
 
-Contact: feel free to contact any organizers if you have questions or suggestions.
+Contact: feel free to contact any student organizers if you have questions or suggestions.

@@ -5,7 +5,7 @@ subtitle: "The 2025 LTI Student Research Symposium"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  (West Meeting Room 118-120, Vancouver, December 14, 2024, <a href="https://neurips.cc/virtual/2024/workshop/84719" target="_blank">Website</a>)
+  (Gates & Hillman Centers (GHC) 6115, Carnegie Mellon University, April 18, 2025)
 </div>
 
 # Accepted Papers
