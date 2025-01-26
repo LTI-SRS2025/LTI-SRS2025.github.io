@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LTI-SCS
+title: LTI-SRS
 subtitle: "The 2025 LTI Student Research Symposium"
 use-site-title: true
 ---

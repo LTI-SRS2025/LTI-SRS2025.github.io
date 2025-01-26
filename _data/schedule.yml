@@ -30,7 +30,7 @@ Break1:
 
 panel1:
   event: "Panel Discussion"
-  title: "MATH-AI 2023"
+  title: "LTI-SRS 2023"
   # speakers: "Jo Boaler (Stanford), Yuri Burda (OpenAI), Chris Piech (Stanford), Sumeet Singh (Turnitin), Kurt Vanlehn (ASU)"
   speakers: ["tgowers", "rtalia", "asolarlezama", "ywu", "mjamnik"]
   start: "11:00-12:00"

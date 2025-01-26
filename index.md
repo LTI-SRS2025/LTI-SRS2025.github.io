@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LTI-SCS
+title: LTI-SRS
 subtitle: "The 2025 LTI Student Research Symposium"
 use-site-title: true
 ---
@@ -123,10 +123,10 @@ Coming Soon!
 
 <div class="container" style="margin-bottom: 10px;"></div>
 - [ICML'24 Workshop on AI4MATH - AI for Math Workshop @ ICML 2024](https://sites.google.com/view/ai4mathworkshopicml2024)
-- [NeurIPS'23 Workshop on MATH-AI - The 3rd Workshop on Mathematical Reasoning and AI](https://mathai2023.github.io/)
-- [NeurIPS'22 Workshop on MATH-AI - Toward Human-Level Mathematical Reasoning](https://mathai2022.github.io/)
+- [NeurIPS'23 Workshop on LTI-SRS - The 3rd Workshop on Mathematical Reasoning and AI](https://mathai2023.github.io/)
+- [NeurIPS'22 Workshop on LTI-SRS - Toward Human-Level Mathematical Reasoning](https://mathai2022.github.io/)
 - [NeurIPS'21 workshop on MATHAI4ED - Math AI for Education: Bridging the Gap Between Research and Smart Education](https://mathai4ed.github.io/)
-- [ICLR'21 workshop on MATH-AI - The Role of Mathematical Reasoning in General Artificial Intelligence](https://mathai-iclr.github.io/)
+- [ICLR'21 workshop on LTI-SRS - The Role of Mathematical Reasoning in General Artificial Intelligence](https://mathai-iclr.github.io/)
 - [NeurIPS'20 Workshop on KR2ML - Knowledge Representation & Reasoning Meets Machine Learning](https://kr2ml.github.io/2020)
 - [NeurIPS'20 workshop on Advances and Opportunities: Machine Learning for Education](https://www.ml4ed.org/)
 - [ICML'20 workshop on Bridge  Between Perception and Reasoning: Graph Neural Networks & Beyond](https://logicalreasoninggnn.github.io)

@@ -12,7 +12,7 @@ title: 2025 LTI Student Research Symposium
 
 
 # Short description of your site
-description: Math-AI
+description: LTI-SRS
 
 # --- Navigation bar options --- #
 
@@ -61,7 +61,7 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author: Organizers of the 4th MATH-AI Workshop at NeurIPS 2024
+author: Organizers of the LTI-SRS Workshop at NeurIPS 2024
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.

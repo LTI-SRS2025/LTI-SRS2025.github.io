@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MATH-AI
-subtitle: "The 4th Workshop on Mathematical Reasoning and AI"
+title: LTI-SRS
+subtitle: "The 2025 LTI Student Research Symposium"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
@@ -82,7 +82,7 @@ use-site-title: true
     <li>DafnyBench: A Benchmark for Formal Software Verification</li>
 </ol>
 
-The list of accepted papers can be found on OpenReview <a href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/MATH-AI#tab-accept">here</a>.
+The list of accepted papers can be found on OpenReview <a href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/LTI-SRS#tab-accept">here</a>.
 
 # Reviewers
 
