@@ -90,34 +90,14 @@ Coming Soon!
 
 <!-- prettier-ignore -->
 Faculty Members:
-<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
-  <!-- <br> 
-  <div class="row" style="margin: -30px;"> -->
-  <div class="row"> 
-    {% for p in site.data.organizers %}
-    {% if forloop.index<=3 %}
-    {% capture id %}{{ p[0] }}{% endcapture %}
-    <div style="margin: 10px;"> <!-- Apply margin for spacing -->
-      {% include profile.html p=p %}
-    </div>
-    {% endif %}
-    {% endfor %}
-  </div>
-</div>
-Student Members:
-<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
-  <div class="row"> 
-    {% for p in site.data.organizers %}
-    {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>3 and forloop.index<=6%}
-    <div style="margin: 10px;"> <!-- Apply margin for spacing -->
-      {% include profile.html p=p %}
-    </div>
-    {% endif %}
-    {% endfor %}
-  </div>
-</div>
-<hr>
+- Student Members: 
+  - Lindia Tjuatja (lindiat@andrew.cmu.edu)
+  - Weihua Du (weihuad@andrew.cmu.edu)
+  - Weiwei Sun (weiweis@andrew.cmu.edu)
+- Faculty Members: 
+  - Ralf Brown (ralf@andrew.cmu.edu)
+  - Lori Levin (levin@andrew.cmu.edu)
+  - Sean Welleck (swelleck@andrew.cmu.edu)
 
 <!-- # Program Committee
 <div class="container">
