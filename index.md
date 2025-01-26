@@ -46,6 +46,8 @@ For a list of relevant submission topics, see the submission topics under EMNLP 
 - Speech Processing, Speech Recognition, Speech Synthesis
 - Summarization
 
+See [Call for Papers](./cfp/) for submission guidance.
+
 <hr>
 
 # Speakers
@@ -87,21 +89,25 @@ Coming Soon!
 <!-- # Organizers -->
 
 <!-- prettier-ignore -->
+Faculty Members:
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   <!-- <br> 
   <div class="row" style="margin: -30px;"> -->
   <div class="row">
     {% for p in site.data.organizers %}
-    {% if forloop.index<=4 %}
+    {% if forloop.index<=3 %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% include profile.html p=p %}
     {% endif %}
     {% endfor %}
   </div>
+</div>
+Student Members:
+<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   <div class="row">
     {% for p in site.data.organizers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>4 and forloop.index<=8%}
+    {% if forloop.index>3 and forloop.index<=6%}
     {% include profile.html p=p %}
     {% endif %}
     {% endfor %}
