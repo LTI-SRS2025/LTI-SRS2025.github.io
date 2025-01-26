@@ -1,53 +1,93 @@
 ---
 layout: page
-title: MATH-AI
-subtitle: "The 4th Workshop on Mathematical Reasoning and AI"
+title: LTI-SCS
+subtitle: "The 2025 LTI Student Research Symposium"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  (West Meeting Room 118-120, Vancouver, December 14, 2024, <a href="https://neurips.cc/virtual/2024/workshop/84719" target="_blank">Website</a>)
+  (Gates & Hillman Centers (GHC) 6115, Carnegie Mellon University, April 18, 2025)
 </div>
-
 
 # Call for Papers
 
-
-Recent advancements in large language models (LLMs) have unlocked new opportunities at the intersection of artificial intelligence and mathematical reasoning, ranging from new methods that solve complex problems or prove theorems, to new forms of human-machine collaboration in mathematics and beyond. 
-
-Our proposed workshop is centered on the intersection of arficial intelligence and mathematical reasoning, with an emphasis on, but not limited to, large language models. 
-Our guiding theme is:
-
-*“To what extent can machine learning models comprehend mathematics, and what applications could arise from this capability?”*
-
-To address this question, we aim to bring together a diverse group of scholars from different backgrounds, institutions, and disciplines into our workshop. Our objective is to foster a lively and constructive dialogue on areas related, but not limited, to the following:
-- **Humans vs. machines**: A comparative study of human-level mathematical reasoning and current AI techniques. How do they differ, complement one another, or intersect?
-- **Measuring mathematical reasoning**: How do we design benchmarks which accurately evaluate mathematical reasoning abilities, especially in an era of large language models?
-- **New capabilities**: How do we move beyond our current techniques?
-- **Education**: What role can deep learning models play in mathematics education, especially in contexts with limited educational resources?
-- **Applications**: What applications could AI systems enable in the near- and long-term? Example domains include software verification, sciences, engineering, finance, education, and mathematics itself.
+The Student Research Symposium is an LTI-wide event for students to show their recent and/or ongoing research and projects to the community. Submissions from students are selected to be presented as talks or posters/demos throughout the day-long event. During the event, talks and posters/demos are judged by a panel of students and faculty. This is a great chance to enjoy the camaraderie of students and faculty, and munch on good food together!
 
 
 ### Important Dates 
 
 <!--{% include dates.md %} <a href="{site.url}/2020/img/KR2ML2020_template.zip">NeurIPS paper format (adapted)</a>. -->
-**Paper submission opens:** August 1, 2024 <br>
-**Deadline for paper submission**: <s>September 20, 2024</s> September 25, 2024 (AoE time)<br>
-**Notification:** October 9, 2024 <br>
-**Camera Ready:** October 30, 2024 <br>
-**Workshop:** December 14, 2024
+**Deadline for paper submission**: February 21, 2025 <br>
+**Notification:** March 21, 2025 <br>
+**Camera Ready:** April 4, 2025 <br>
+**Workshop:** Friday, April 18, 2025, GHC 6115 9:00am-5:00pm
 
-### Submission Requirements
+### Topics of Interest
+For a list of relevant submission topics, see the submission topics under EMNLP 2024’s call for papers as well as COLM 2025’s call for papers. These include (but are not limited to):
+- Computational Social Science and Cultural Analytics
+- Dialogue and Interactive Systems
+- Discourse and Pragmatics
+- Efficient Methods for NLP
+- Ethics and NLP
+- Generation
+- Information Extraction
+- Information Retrieval and Text Mining
+- Interpretability and Analysis of Models for NLP
+- Knowledge Representation and Reasoning 
+- Language Grounding to Vision, Robotics, and Beyond
+- Linguistic theories, Cognitive Modeling and Psycholinguistics
+- Machine Learning for NLP
+- Machine Translation and Multilinguality
+- Multimodality
+- NLP Applications
+- Phonology, Morphology, and Word Segmentation
+- Question Answering
+- Resources and Evaluation
+- Semantics: Lexical
+- Semantics: Sentence-level Semantics, Textual Inference, and Other areas
+- Sentiment Analysis, Stylistic Analysis, and Argument Mining
+- Speech Processing, Speech Recognition, Speech Synthesis
+- Summarization
 
-Submissions to MATH-AI 2024 are limited to 4 pages of content, but may contain an unlimited number of pages for references and appendices. The latter may not necessarily be read by the reviewers. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings, reproducibility information, etc.) that do not fit in the 4 pages. The review process is double-blind, so please ensure that all papers are appropriately anonymised.
+## Tracks
 
-All submissions must be formatted with LaTeX using the [NeurIPS paper format](img/neurips_2024.zip). The checklist is not necessary.
+### Main Track 
+We invite you to submit ongoing or near-completed work. Prior acceptance/presentation at other conferences is not necessary. This platform provides an excellent opportunity to present your mature ideas to a diverse audience, gain meaningful visibility, and gather fresh perspectives for your research.
 
-All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. The page limit for these submissions is 4 pages. Accepted papers will be displayed on the MATH-AI 2024 homepage, but are to be considered non-archival.
+Submission format: We accept full paper submissions in either an 8-page long paper format or a 4-page short paper format. The official ACL style is preferred. 
 
-Submission Link: [https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/MATH-AI](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/MATH-AI) 
+### Preliminary Work Track
+We invite you to submit any novel or exploratory work still in its initial or formative stages. This track is particularly advantageous for garnering early feedback on your research concepts and project trajectories.
 
-### Camera-ready Requirements
+Submission format: We accept extended abstracts or short papers (1-2 pages long)
 
-The final version of all accepted papers will be given one additional page of content (up to 5 pages) so that reviewers’ comments can be taken into account.
+### Demo Track
+You can submit tools/software that you build to this track. This could either be a demonstration of your research project, or a toolkit that you created that is useful/interesting. Examples include a GitHub repository, a website, or software that you can create a demo from (e.g, ExplainaBoard, rebiber).
 
-Please email any inquiries to [mathai.neurips2024@gmail.com](mailto:mathai.neurips2024@gmail.com).
+Submission format: Describe the functions and usage of your tool in up to 4 pages. 
+
+### Theme Track: Agents & Reasoning
+We’re excited to announce this year’s special theme on agents and reasoning! Possible topics may include (but are not limited to):
+- Generating (natural or synthetic) data for training LLM agents
+- Embodied LLMs
+- Societal considerations of LLM agents and safety
+- Improving reasoning through training or inference-time compute
+- Evaluation of various forms of reasoning
+- …among many others!
+
+### Note
+**All paper submissions are recommended to follow official ACL style templates**, which are available here (https://github.com/acl-org/acl-style-files). However, for papers accepted or targeted at non-ACL conferences (e.g., ICML, NeurIPS), feel free to keep the original styles.
+
+### Presentation Format
+Presentation formats include oral presentations (long and short) and posters. Full papers may have an either an oral and/or a poster, preliminary works can get an oral (short) and/or a poster. Allocations regarding presentation type will be made after submissions are received.
+
+In the meantime, feel free to contact the SRS student committee members if you have any questions.
+
+### Organizing Committee
+- Student Members: 
+  - Lindia Tjuatja (lindiat@andrew.cmu.edu)
+  - Weihua Du (weihuad@andrew.cmu.edu)
+  - Weiwei Sun (weiweis@andrew.cmu.edu)
+- Faculty Members: 
+  - Ralf Brown (ralf@andrew.cmu.edu)
+  - Lori Levin (levin@andrew.cmu.edu)
+  - Sean Welleck (swelleck@andrew.cmu.edu)
