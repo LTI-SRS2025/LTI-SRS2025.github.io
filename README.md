@@ -1,6 +1,3 @@
 # The 2025 LTI Student Research Symposium
 
-
-```
-bundle exec jekyll serve
-```
+Webpage adopted from https://github.com/mathai2024/mathai2024.github.io
