@@ -17,7 +17,8 @@ If you'd like to become a reviewer for the Symposium, or recommend someone, [ple
 
 # Overview
 
-Student Research Symposium (SRS) is an LTI-wide event for students to show their recent and/or ongoing research and projects to the community. Submissions from students are selected to be presented as talks or posters/demos throughout the day-long event. During the event, talks and posters/demos are judged by a panel of students and faculty<!--, and cash prizes are given to the winners ($500 prize for the main and demo tracks, $250 prize for the preliminary work and theme tracks). -->This is a great chance to enjoy the camaraderie of students and faculty, and munch on good food together! In addition, if you have a speaking requirement for your degree program (e.g., MLT), participating in this event can fulfill that requirement!
+The Student Research Symposium (SRS) is an LTI-wide event for students to show their recent and/or ongoing research and projects to the community. Submissions from students are selected to be presented as talks or posters/demos throughout the day-long event. During the event, talks and posters/demos are judged by a panel of students and faculty. This is a great chance to enjoy the camaraderie of students and faculty, and munch on good food together! In addition, if you have a speaking requirement for your degree program (e.g., MLT), participating in this event can fulfill that requirement!
+
 
 ## Topics of Interest
 For a list of relevant submission topics, see the submission topics under [EMNLP 2024’s call for papers](https://2024.emnlp.org/calls/main_conference_papers/) as well as [COLM 2025’s call for papers](https://colmweb.org/cfp.html). These include (but are not limited to):
