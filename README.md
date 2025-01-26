@@ -1,4 +1,4 @@
-# mathai2024.github.io
+# The 2025 LTI Student Research Symposium
 
 
 ```

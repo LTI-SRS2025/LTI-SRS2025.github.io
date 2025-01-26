@@ -12,7 +12,7 @@
     function load() { if (window.location.hash) shiftWindow(); }
   </script>
   
-  <title>Tag Index</title>
+  <title>Call For Papers/title>
 
   <meta name="author" content="" />
 
@@ -66,11 +66,28 @@
   
 
   
-  <meta property="og:title" content="Tag Index" />
+  <meta property="og:title" content="Speakers &amp; Panelists" />
   
 
   
-  <meta property="og:description" content="{%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:&apos;,&apos; | sort -%} {%- for tag in tags_list -%} &amp;nbsp;{{- tag -}}&amp;nbsp;({{site.tags[tag].size}}) {%- endfor -%} {%- for...">
+  <meta property="og:description" content="# Speakers &amp; Panelists
+
+  {% for p in site.data.speakers %}
+  {% if forloop.index
+    
+    {% capture id %}{{ p[0] }}{% endcapture %}
+    {% include profile.html p=p %}
+    
+    
+    {% capture id %}{{ p[1] }}{% endcapture %}
+    {% include profile_detail.html p=p %}
+    
+  
+  
+  {% endif %}
+  {% endfor %}
+
+">
   
 
   <meta name="image" property="og:image" content="https://mathai2022.github.io/img/logo/1600_1200.png">
@@ -78,8 +95,8 @@
   <meta property="og:type" content="website" />
 
   
-  <meta property="og:url" content="http://localhost:4000/tags/" />
-  <link rel="canonical" href="http://localhost:4000/tags/" />
+  <meta property="og:url" content="http://localhost:4000/speakers/" />
+  <link rel="canonical" href="http://localhost:4000/speakers/" />
   
 
   
@@ -91,11 +108,28 @@
   <meta name="twitter:creator" content="@" />
 
   
-  <meta name="twitter:title" content="Tag Index" />
+  <meta name="twitter:title" content="Speakers &amp; Panelists" />
   
 
   
-  <meta name="twitter:description" content="{%- capture site_tags -%} {%- for tag in site.tags -%} {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%} {%- endfor -%} {%- endcapture -%} {%- assign tags_list = site_tags | split:&apos;,&apos; | sort -%} {%- for tag in tags_list -%} &amp;nbsp;{{- tag -}}&amp;nbsp;({{site.tags[tag].size}}) {%- endfor -%} {%- for...">
+  <meta name="twitter:description" content="# Speakers &amp; Panelists
+
+  {% for p in site.data.speakers %}
+  {% if forloop.index
+    
+    {% capture id %}{{ p[0] }}{% endcapture %}
+    {% include profile.html p=p %}
+    
+    
+    {% capture id %}{{ p[1] }}{% endcapture %}
+    {% include profile_detail.html p=p %}
+    
+  
+  
+  {% endif %}
+  {% endfor %}
+
+">
   
 
   
@@ -189,8 +223,6 @@
     
   </div>
 </nav>
-
-
     <!-- TODO this file has become a mess, refactor it -->
 
 
