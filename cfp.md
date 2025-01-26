@@ -77,7 +77,7 @@ We’re excited to announce this year’s special theme on agents and reasoning!
 ### Note
 **All paper submissions are recommended to follow official ACL style templates**, which are available here (https://github.com/acl-org/acl-style-files). However, for papers accepted or targeted at non-ACL conferences (e.g., ICML, NeurIPS), feel free to keep the original styles.
 
-### Presentation Format
+#### Presentation Format
 Presentation formats include oral presentations (long and short) and posters. Full papers may have an either an oral and/or a poster, preliminary works can get an oral (short) and/or a poster. Allocations regarding presentation type will be made after submissions are received.
 
 In the meantime, feel free to contact the SRS student committee members if you have any questions.

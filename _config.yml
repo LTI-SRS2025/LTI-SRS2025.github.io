@@ -8,7 +8,7 @@
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: 4th MATH-AI Workshop at NeurIPS'24
+title: 2025 LTI Student Research Symposium
 
 
 # Short description of your site
@@ -20,8 +20,7 @@ description: Math-AI
 navbar-links:  
   Call: "cfp"
   # Dates: "#dates"
-  Speakers&Panelists: "speakers"
-  Papers: "papers"
+  Speakers: "speakers"
   Schedule: "schedule"
   # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   # - Learn markdown: "http://www.markdowntutorial.com/"
