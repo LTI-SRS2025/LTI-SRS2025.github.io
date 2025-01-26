@@ -51,7 +51,7 @@ See [Call for Papers](./cfp/) for submission guidance.
 <hr>
 
 # Speakers
-Coming Soon!
+Coming soon!
 
 <!--
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">

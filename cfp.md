@@ -14,7 +14,7 @@ The Student Research Symposium is an LTI-wide event for students to show their r
 
 ### Submission link
 
-Coming Soon!
+Coming soon!
 
 ### Important Dates 
 

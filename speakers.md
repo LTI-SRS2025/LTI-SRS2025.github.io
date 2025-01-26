@@ -9,4 +9,4 @@ use-site-title: true
 </div>
 
 # Speakers
-Coming Soon!
+Coming soon!

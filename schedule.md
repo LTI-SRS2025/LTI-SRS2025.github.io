@@ -9,7 +9,7 @@ use-site-title: true
 </div>
 
 # Schedule
-Coming Soon!
+Coming soon!
 
 <!-- #### Friday, December 14th, 2023
 #### All times are in Central Standard Time (CST) ([Check local time](https://www.google.com/search?q=time+for+local+new+orleans))
