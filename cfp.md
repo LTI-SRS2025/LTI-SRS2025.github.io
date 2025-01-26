@@ -12,6 +12,9 @@ use-site-title: true
 
 The Student Research Symposium is an LTI-wide event for students to show their recent and/or ongoing research and projects to the community. Submissions from students are selected to be presented as talks or posters/demos throughout the day-long event. During the event, talks and posters/demos are judged by a panel of students and faculty. This is a great chance to enjoy the camaraderie of students and faculty, and munch on good food together!
 
+### Submission link
+
+Coming Soon!
 
 ### Important Dates 
 
@@ -22,7 +25,7 @@ The Student Research Symposium is an LTI-wide event for students to show their r
 **Workshop:** Friday, April 18, 2025, GHC 6115 9:00am-5:00pm
 
 ### Topics of Interest
-For a list of relevant submission topics, see the submission topics under EMNLP 2024’s call for papers as well as COLM 2025’s call for papers. These include (but are not limited to):
+For a list of relevant submission topics, see the submission topics under [EMNLP 2024’s call for papers](https://2024.emnlp.org/calls/main_conference_papers/) as well as [COLM 2025’s call for papers](https://colmweb.org/cfp.html). These include (but are not limited to):
 - Computational Social Science and Cultural Analytics
 - Dialogue and Interactive Systems
 - Discourse and Pragmatics

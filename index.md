@@ -86,10 +86,6 @@ Coming Soon!
 <hr>
 
 # Organizing Committee
-<!-- # Organizers -->
-
-<!-- prettier-ignore -->
-Faculty Members:
 - Student Members: 
   - Lindia Tjuatja (lindiat@andrew.cmu.edu)
   - Weihua Du (weihuad@andrew.cmu.edu)
