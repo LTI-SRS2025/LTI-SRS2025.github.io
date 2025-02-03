@@ -13,7 +13,7 @@ use-site-title: true
 
 # Reviewer Nomination
 
-If you'd like to become a reviewer for the Symposium, or recommend someone, [please use this form](./404).
+If you'd like to become a reviewer for the Symposium, or recommend someone, [please use this form](https://docs.google.com/forms/d/e/1FAIpQLSdiOWaFpBVvKZUFwPii0ZDiVnp8eHdQKgYrQ28cpKJ9Kq2v8w/viewform?usp=dialog).
 
 # Overview
 
@@ -47,7 +47,7 @@ For a list of relevant submission topics, see the submission topics under [EMNLP
 - Speech Processing, Speech Recognition, Speech Synthesis
 - Summarization
 
-See [Call for Papers](./cfp/) for submission guidance.
+[Submission Link](https://easychair.org/conferences/?conf=ltisrs25). Please refer to [Call for Papers](./cfp/) for submission guidance.
 
 <hr>
 
