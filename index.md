@@ -47,7 +47,7 @@ For a list of relevant submission topics, see the submission topics under [EMNLP
 - Speech Processing, Speech Recognition, Speech Synthesis
 - Summarization
 
-[Submission Link](https://easychair.org/conferences/?conf=ltisrs25). Please refer to [Call for Papers](./cfp/) for submission guidance.
+[Submission Link](https://openreview.net/group?id=cmu.edu/CMU/2025/LTI-SRS). Please refer to [Call for Papers](./cfp/) for submission guidance.
 
 <hr>
 

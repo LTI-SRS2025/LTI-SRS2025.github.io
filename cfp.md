@@ -14,7 +14,7 @@ The Student Research Symposium is an LTI-wide event for students to show their r
 
 ### Submission link
 
-[Submission Link](https://easychair.org/conferences/?conf=ltisrs25)
+[Submission Link](https://openreview.net/group?id=cmu.edu/CMU/2025/LTI-SRS)
 
 ### Important Dates 
 
