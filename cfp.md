@@ -19,7 +19,7 @@ The Student Research Symposium is an LTI-wide event for students to show their r
 ### Important Dates 
 
 <!--{% include dates.md %} <a href="{site.url}/2020/img/KR2ML2020_template.zip">NeurIPS paper format (adapted)</a>. -->
-**Deadline for paper submission**: February 21, 2025 <br>
+**Deadline for paper submission**: February 26, 2025 (extended from Feb. 21)<br>
 **Notification:** March 21, 2025 <br>
 **Camera Ready:** April 4, 2025 <br>
 **Symposium:** Friday, April 18, 2025, GHC 6115 9:00am-5:00pm
