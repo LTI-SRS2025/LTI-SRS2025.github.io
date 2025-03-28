@@ -1,6 +1,6 @@
-javigad:
-    name: "Jeremy Avigad"
-    url: "https://www.andrew.cmu.edu/user/avigad/"
-    affiliation: "CMU"
-    img: "javigad.jpg"
+field:
+    name: "Anjalie Field"
+    url: "https://anjalief.github.io/"
+    affiliation: "JHU"
+    img: "anjalie.jpg"
     bio: "Jeremy is a professor in the Department of Philosophy and the Department of Mathematical Sciences at Carnegie Mellon University. His research focuses on mathematical logic and formal methods in mathematics, as well as the philosophy and history of mathematics."
