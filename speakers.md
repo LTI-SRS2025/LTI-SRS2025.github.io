@@ -8,7 +8,7 @@ use-site-title: true
   (Gates & Hillman Centers (GHC) 6115, Carnegie Mellon University, April 18, 2025)
 </div>
 
-# Speakers
+# Speaker
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   {% for p in site.data.speakers %}
   {% if forloop.index<15 %}
