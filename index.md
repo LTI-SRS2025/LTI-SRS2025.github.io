@@ -54,7 +54,6 @@ For a list of relevant submission topics, see the submission topics under [EMNLP
 # Speakers
 Coming soon!
 
-<!--
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
     {% for p in site.data.speakers %}
@@ -82,7 +81,6 @@ Coming soon!
   </div>
 <a href="speakers">More Info</a>
 </div>
--->
 
 <hr>
 
