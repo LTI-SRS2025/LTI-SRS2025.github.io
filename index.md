@@ -52,7 +52,6 @@ For a list of relevant submission topics, see the submission topics under [EMNLP
 <hr>
 
 # Speakers
-Coming soon!
 
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
