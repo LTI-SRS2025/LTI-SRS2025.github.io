@@ -77,7 +77,7 @@ use-site-title: true
       </tr>
       <tr>
         <td style="width: 180px;">3:30pm - 4:30pm</td>
-        <td>Invited Talk: Fairness and Privacy in High-Stakes NLP <a href="https://anjalief.github.io/">Anjalie Field</a>, JHU</td>
+        <td>Keynote Speaker: Fairness and Privacy in High-Stakes NLP <a href="https://anjalief.github.io/">Anjalie Field</a>, JHU</td>
       </tr>
       <!--<tr>
         <td style="width: 180px;">3:30pm - 4:30pm</td>
