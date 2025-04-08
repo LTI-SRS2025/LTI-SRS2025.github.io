@@ -83,17 +83,17 @@ use-site-title: true
         <td style="width: 180px;">4:30pm - 4:40pm</td>
         <td>Close Remarks</td>
       </tr>
-      <!--<tr>
-        <td style="width: 180px;">3:30pm - 4:30pm</td>
-        <td>Contributed Talks:<br><br>
-          1. <a href="https://openreview.net/pdf?id=HmB9uZTzaD">VerMCTS: Synthesizing Multi-Step Programs using a Verifier, a Large Language Model, and Tree Search</a><br>
-          David Brandfonbrener, Harvard University<br><br>
-          2. <a href="https://openreview.net/pdf?id=j7DZWSc8qu">Inference Scaling Laws: An Empirical Analysis of Compute-Optimal Inference for LLM Problem-Solving</a><br>
-          Sean Welleck and Zhiqing Sun, CMU<br><br>
-          3. <a href="https://openreview.net/pdf?id=tIlDF5B6T4">Learning Mathematical Rules with Large Language Models</a><br>
-          Nelson Vadori, JPMorganChase AI Research
+      <tr>
+        <td style="width: 180px;">1:00pm - 3:00pm</td>
+        <td>Oral Presentations - Session 2<br><br>
+          1. Decoding Dark Matter: Specialized Sparse Autoencoders for Interpreting Rare Concepts in Foundation Models (1:00pm - 1:20 pm)<br><br>
+          2. Social Scaffolds: A Generalization Framework for Social Understanding Tasks (1:20pm - 1:40 pm)<br><br>
+          3. MICE for CATs: Model-Internal Confidence Estimation for Calibrating Agents with Tools (1:40pm - 2:00 pm)<br><br>
+          4. On the Feasibility of In-Context Probing for Data Attribution (2:00pm - 2:20 pm)<br><br>
+          5. Toward Global AI Inclusivity: A Large-Scale Multilingual Terminology Dataset (GIST) (2:20pm - 2:40 pm)<br><br>
+          6. Mind the Gesture: Evaluating AI Sensitivity to Culturally Offensive Non-Verbal Gestures (2:40pm - 3:00 pm)<br><br>
         </td>
-      </tr> -->
+      </tr>
     </table>
   </div>
 </div>
