@@ -79,6 +79,10 @@ use-site-title: true
         <td style="width: 180px;">3:30pm - 4:30pm</td>
         <td>Keynote Speaker: Fairness and Privacy in High-Stakes NLP <a href="https://anjalief.github.io/">Anjalie Field</a>, JHU</td>
       </tr>
+      <tr>
+        <td style="width: 180px;">4:30pm - 4:40pm</td>
+        <td>Close Remarks</td>
+      </tr>
       <!--<tr>
         <td style="width: 180px;">3:30pm - 4:30pm</td>
         <td>Contributed Talks:<br><br>
