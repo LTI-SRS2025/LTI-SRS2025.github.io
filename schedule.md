@@ -76,7 +76,7 @@ use-site-title: true
         <td>Coffee Break</td>
       </tr>
       <tr>
-        <td style="width: 180px;">3:00pm - 3:30pm</td>
+        <td style="width: 180px;">3:30pm - 4:30pm</td>
         <td>Invited Talk: Fairness and Privacy in High-Stakes NLP <a href="https://anjalief.github.io/">Anjalie Field</a>, JHU</td>
       </tr>
       <!--<tr>
