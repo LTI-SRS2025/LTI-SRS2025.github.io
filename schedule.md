@@ -9,14 +9,12 @@ use-site-title: true
 </div>
 
 # Schedule
-Coming soon!
 
-<!-- #### Friday, December 14th, 2023
-#### All times are in Central Standard Time (CST) ([Check local time](https://www.google.com/search?q=time+for+local+new+orleans))
+#### Friday, April 18th, 2025
+#### All times are in Eastern Standard Time (EST) ([Check local time](https://www.google.com/search?q=time+for+local+pittsburgh))
 
 
-#### Location: Room 217-219, New Orleans Convention Center ([Map](https://goo.gl/maps/8WXJ8h4Svng793Cc8))
-#### Live video stream: [Link](https://neurips.cc/virtual/2022/workshop/50015) -->
+#### Location: Gates & Hillman Centers (GHC) 6115, Carnegie Mellon University
 
 <!--<div class="container">
   <div class="row">
