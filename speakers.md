@@ -26,3 +26,23 @@ use-site-title: true
   {% endif %}
   {% endfor %}
 </div>
+
+# Talk Description
+
+<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
+  {% for p in site.data.speakers %}
+  {% if forloop.index<15 %}
+  <div class="row talk-description">
+    <div class="col">
+      <h3>{{ p[1].name }}</h3>
+      <p><strong>Title:</strong> {{ p[1].talk_title }}</p>
+      <p><strong>Abstract:</strong> {{ p[1].abstract }}</p>
+      {% if p[1].time %}
+      <p><strong>Time:</strong> {{ p[1].time }}</p>
+      {% endif %}
+    </div>
+  </div>
+  <hr>
+  {% endif %}
+  {% endfor %}
+</div>
