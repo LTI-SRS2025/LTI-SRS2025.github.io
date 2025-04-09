@@ -31,7 +31,7 @@ use-site-title: true
           3. Human-Aligned Chess With a Bit of Search (10:40am - 11:00am)<br><br>
           4. Fairshare Data Pricing for Large Language Models (11:00am - 11:20am)<br><br>
           5. Energy Considerations of Large Language Model Inference and Efficiency Optimizations (11:20am - 11:40am)<br><br>
-          6. Decoding Dark Matter: Specialized Sparse Autoencoders for Interpreting Rare Concepts in Foundation Models (11:40am - 12:00pm)<br><br>
+          6. Decoding Dark Matter: Specialized Sparse Autoencoders for Interpreting Rare Concepts in Foundation Models (11:40am - 12:00pm)
         </td>
       </tr>
       <tr>
@@ -45,7 +45,7 @@ use-site-title: true
           8. MICE for CATs: Model-Internal Confidence Estimation for Calibrating Agents with Tools (1:50pm - 2:10pm)<br><br>
           9. On the Feasibility of In-Context Probing for Data Attribution (2:10pm - 2:30pm)<br><br>
           10. Toward Global AI Inclusivity: A Large-Scale Multilingual Terminology Dataset (GIST) (2:30pm - 2:50pm)<br><br>
-          11. Mind the Gesture: Evaluating AI Sensitivity to Culturally Offensive Non-Verbal Gestures (2:50pm - 3:10pm)<br><br>
+          11. Mind the Gesture: Evaluating AI Sensitivity to Culturally Offensive Non-Verbal Gestures (2:50pm - 3:10pm)
         </td>
       </tr>
       <tr>
