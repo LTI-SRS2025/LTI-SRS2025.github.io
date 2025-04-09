@@ -35,7 +35,7 @@ use-site-title: true
         </td>
       </tr>
       <tr>
-        <td style="width: 180px;">12:00am - 1:30pm</td>
+        <td style="width: 180px;">12:00pm - 1:30pm</td>
         <td>Poster Session & Lunch</td>
       </tr>
       <tr>
