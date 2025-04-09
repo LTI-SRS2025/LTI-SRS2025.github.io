@@ -24,52 +24,29 @@ use-site-title: true
         <td>Opening Remarks</td>
       </tr>
       <tr>
-        <td style="width: 180px;">10:10am - 10:20am</td>
-        <td>(Preliminary Work Track) Should I Agree with You? Simulating Persuasion and Decision Dynamics in Multi-Agent Moral Dilemmas</td>
+        <td style="width: 180px;">10:10am - 12:00pm</td>
+        <td>Oral Presentations - Session 1<br><br>
+          1. (Preliminary Work Track) Should I Agree with You? Simulating Persuasion and Decision Dynamics in Multi-Agent Moral Dilemmas (10:10am - 10:20am)<br><br>
+          2. (Theme Track) AlphaVerus: Bootstrapping Formally Verified Code Generation through Self-Improving Translation and Treefinement (10:20am - 10:40am)<br><br>
+          3. Human-Aligned Chess With a Bit of Search (10:40am - 11:00am)<br><br>
+          4. Fairshare Data Pricing for Large Language Models (11:00am - 11:20am)<br><br>
+          5. Energy Considerations of Large Language Model Inference and Efficiency Optimizations (11:20am - 11:40am)<br><br>
+          6. Decoding Dark Matter: Specialized Sparse Autoencoders for Interpreting Rare Concepts in Foundation Models (11:40am - 12:00pm)<br><br>
+        </td>
       </tr>
       <tr>
-        <td style="width: 180px;">10:20am - 10:40am</td>
-        <td>(Theme Track) AlphaVerus: Bootstrapping Formally Verified Code Generation through Self-Improving Translation and Treefinement</td>
-      </tr>
-      <tr>
-        <td style="width: 180px;">10:40am - 11:00am</td>
-        <td>Human-Aligned Chess With a Bit of Search</td>
-      </tr>
-      <tr>
-        <td style="width: 180px;">11:00am - 11:20am</td>
-        <td>Fairshare Data Pricing for Large Language Models</td>
-      </tr>
-      <tr>
-        <td style="width: 180px;">11:20am - 11:40am</td>
-        <td>Energy Considerations of Large Language Model Inference and Efficiency Optimizations</td>
-      </tr>
-      <tr>
-        <td style="width: 180px;">11:40am - 1:00pm</td>
+        <td style="width: 180px;">12:00am - 1:30pm</td>
         <td>Poster Session & Lunch</td>
       </tr>
       <tr>
-        <td style="width: 180px;">1:00pm - 1:20pm</td>
-        <td>Decoding Dark Matter: Specialized Sparse Autoencoders for Interpreting Rare Concepts in Foundation Models</td>
-      </tr>
-      <tr>
-        <td style="width: 180px;">1:20pm - 1:40pm</td>
-        <td>Social Scaffolds: A Generalization Framework for Social Understanding Tasks</td>
-      </tr>
-      <tr>
-        <td style="width: 180px;">1:40pm - 2:00pm</td>
-        <td>MICE for CATs: Model-Internal Confidence Estimation for Calibrating Agents with Tools</td>
-      </tr>
-      <tr>
-        <td style="width: 180px;">2:00pm - 2:20pm</td>
-        <td>On the Feasibility of In-Context Probing for Data Attribution</td>
-      </tr>
-      <tr>
-        <td style="width: 180px;">2:20pm - 2:40pm</td>
-        <td>Toward Global AI Inclusivity: A Large-Scale Multilingual Terminology Dataset (GIST)</td>
-      </tr>
-      <tr>
-        <td style="width: 180px;">2:40pm - 3:00pm</td>
-        <td>Mind the Gesture: Evaluating AI Sensitivity to Culturally Offensive Non-Verbal Gestures</td>
+        <td style="width: 180px;">1:30pm - 3:10pm</td>
+        <td>Oral Presentations - Session 2<br><br>
+          7. Social Scaffolds: A Generalization Framework for Social Understanding Tasks (1:30pm - 1:50pm)<br><br>
+          8. MICE for CATs: Model-Internal Confidence Estimation for Calibrating Agents with Tools (1:50pm - 2:10pm)<br><br>
+          9. On the Feasibility of In-Context Probing for Data Attribution (2:10pm - 2:30pm)<br><br>
+          10. Toward Global AI Inclusivity: A Large-Scale Multilingual Terminology Dataset (GIST) (2:30pm - 2:50pm)<br><br>
+          11. Mind the Gesture: Evaluating AI Sensitivity to Culturally Offensive Non-Verbal Gestures (2:50pm - 3:10pm)<br><br>
+        </td>
       </tr>
       <tr>
         <td style="width: 180px;">3:00pm - 3:30pm</td>
@@ -77,22 +54,11 @@ use-site-title: true
       </tr>
       <tr>
         <td style="width: 180px;">3:30pm - 4:30pm</td>
-        <td>Keynote Speaker: Fairness and Privacy in High-Stakes NLP <a href="https://anjalief.github.io/">Anjalie Field</a>, JHU</td>
+        <td>Invited talk: Fairness and Privacy in High-Stakes NLP <a href="https://anjalief.github.io/">Anjalie Field</a>, JHU</td>
       </tr>
       <tr>
         <td style="width: 180px;">4:30pm - 4:40pm</td>
         <td>Close Remarks</td>
-      </tr>
-      <tr>
-        <td style="width: 180px;">1:00pm - 3:00pm</td>
-        <td>Oral Presentations - Session 2<br><br>
-          1. Decoding Dark Matter: Specialized Sparse Autoencoders for Interpreting Rare Concepts in Foundation Models (1:00pm - 1:20 pm)<br><br>
-          2. Social Scaffolds: A Generalization Framework for Social Understanding Tasks (1:20pm - 1:40 pm)<br><br>
-          3. MICE for CATs: Model-Internal Confidence Estimation for Calibrating Agents with Tools (1:40pm - 2:00 pm)<br><br>
-          4. On the Feasibility of In-Context Probing for Data Attribution (2:00pm - 2:20 pm)<br><br>
-          5. Toward Global AI Inclusivity: A Large-Scale Multilingual Terminology Dataset (GIST) (2:20pm - 2:40 pm)<br><br>
-          6. Mind the Gesture: Evaluating AI Sensitivity to Culturally Offensive Non-Verbal Gestures (2:40pm - 3:00 pm)<br><br>
-        </td>
       </tr>
     </table>
   </div>
