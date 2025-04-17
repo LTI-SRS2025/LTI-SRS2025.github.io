@@ -30,8 +30,7 @@ use-site-title: true
           2. (Theme Track) AlphaVerus: Bootstrapping Formally Verified Code Generation through Self-Improving Translation and Treefinement (10:20am - 10:40am)<br><br>
           3. Human-Aligned Chess With a Bit of Search (10:40am - 11:00am)<br><br>
           4. Fairshare Data Pricing for Large Language Models (11:00am - 11:20am)<br><br>
-          5. Energy Considerations of Large Language Model Inference and Efficiency Optimizations (11:20am - 11:40am)<br><br>
-          6. Decoding Dark Matter: Specialized Sparse Autoencoders for Interpreting Rare Concepts in Foundation Models (11:40am - 12:00pm)
+          5. Energy Considerations of Large Language Model Inference and Efficiency Optimizations (11:20am - 11:40am)
         </td>
       </tr>
       <tr>
