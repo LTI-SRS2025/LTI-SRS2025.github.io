@@ -55,13 +55,29 @@ use-site-title: true
       </tr>
       <tr>
         <td style="width: 180px;">1:30pm - 3:10pm</td>
-        <td>Oral Presentations - Session 2<br><br>
-          6. Social Scaffolds: A Generalization Framework for Social Understanding Tasks (1:30pm - 1:50pm) [OpenReview](https://openreview.net/forum?id=aWjwjR8LU0) <br><br>
-          7. MICE for CATs: Model-Internal Confidence Estimation for Calibrating Agents with Tools (1:50pm - 2:10pm) [OpenReview](https://openreview.net/forum?id=22uOLJuRFR) <br><br>
-          8. On the Feasibility of In-Context Probing for Data Attribution (2:10pm - 2:30pm) [OpenReview](https://openreview.net/forum?id=X26lEPwenw) <br><br>
-          9. Toward Global AI Inclusivity: A Large-Scale Multilingual Terminology Dataset (GIST) (2:30pm - 2:50pm) [OpenReview](https://openreview.net/forum?id=QJhMo7EUSt) <br><br>
-          10. Mind the Gesture: Evaluating AI Sensitivity to Culturally Offensive Non-Verbal Gestures (2:50pm - 3:10pm) [OpenReview](https://openreview.net/forum?id=z7hDELXmHW)
-        </td>
+  <td>
+    Oral Presentations - Session 2<br><br>
+
+    6. Social Scaffolds: A Generalization Framework for Social Understanding Tasks
+      (1:30 pm - 1:50 pm)
+      <a href="https://openreview.net/forum?id=aWjwjR8LU0" target="_blank" rel="noopener">OpenReview</a><br><br>
+
+    7. MICE for CATs: Model‑Internal Confidence Estimation for Calibrating Agents with Tools
+      (1:50 pm - 2:10 pm)
+      <a href="https://openreview.net/forum?id=22uOLJuRFR" target="_blank" rel="noopener">OpenReview</a><br><br>
+
+    8. On the Feasibility of In‑Context Probing for Data Attribution
+      (2:10 pm - 2:30 pm)
+      <a href="https://openreview.net/forum?id=X26lEPwenw" target="_blank" rel="noopener">OpenReview</a><br><br>
+
+    9. Toward Global AI Inclusivity: A Large‑Scale Multilingual Terminology Dataset (GIST)
+      (2:30 pm - 2:50 pm)
+      <a href="https://openreview.net/forum?id=QJhMo7EUSt" target="_blank" rel="noopener">OpenReview</a><br><br>
+
+    10. Mind the Gesture: Evaluating AI Sensitivity to Culturally Offensive Non‑Verbal Gestures
+        (2:50 pm - 3:10 pm)
+        <a href="https://openreview.net/forum?id=z7hDELXmHW" target="_blank" rel="noopener">OpenReview</a>
+  </td>
       </tr>
       <tr>
         <td style="width: 180px;">3:10pm - 3:30pm</td>
