@@ -26,11 +26,11 @@ use-site-title: true
       <tr>
         <td style="width: 180px;">10:10am - 12:00pm</td>
         <td>Oral Presentations - Session 1<br><br>
-          1. (Preliminary Work Track) Should I Agree with You? Simulating Persuasion and Decision Dynamics in Multi-Agent Moral Dilemmas (10:10am - 10:20am)<br><br>
-          2. (Theme Track) AlphaVerus: Bootstrapping Formally Verified Code Generation through Self-Improving Translation and Treefinement (10:20am - 10:40am)<br><br>
-          3. Human-Aligned Chess With a Bit of Search (10:40am - 11:00am)<br><br>
-          4. Fairshare Data Pricing for Large Language Models (11:00am - 11:20am)<br><br>
-          5. Energy Considerations of Large Language Model Inference and Efficiency Optimizations (11:20am - 11:40am)
+          1. (Preliminary Work Track) Should I Agree with You? Simulating Persuasion and Decision Dynamics in Multi-Agent Moral Dilemmas (10:10am - 10:20am) [OpenReview](https://openreview.net/forum?id=fNVfAzaRKM) <br><br>
+          2. (Theme Track) AlphaVerus: Bootstrapping Formally Verified Code Generation through Self-Improving Translation and Treefinement (10:20am - 10:40am) [OpenReview](https://openreview.net/forum?id=3RgKp0JBh0) <br><br>
+          3. Human-Aligned Chess With a Bit of Search (10:40am - 11:00am) [OpenReview](https://openreview.net/forum?id=vGGPoxukMC) <br><br>
+          4. Fairshare Data Pricing for Large Language Models (11:00am - 11:20am) [OpenReview](https://openreview.net/forum?id=QnFNXM5tBp) <br><br>
+          5. Energy Considerations of Large Language Model Inference and Efficiency Optimizations (11:20am - 11:40am) [OpenReview](https://openreview.net/forum?id=aXNty1YGe0)
         </td>
       </tr>
       <tr>
@@ -40,11 +40,11 @@ use-site-title: true
       <tr>
         <td style="width: 180px;">1:30pm - 3:10pm</td>
         <td>Oral Presentations - Session 2<br><br>
-          7. Social Scaffolds: A Generalization Framework for Social Understanding Tasks (1:30pm - 1:50pm)<br><br>
-          8. MICE for CATs: Model-Internal Confidence Estimation for Calibrating Agents with Tools (1:50pm - 2:10pm)<br><br>
-          9. On the Feasibility of In-Context Probing for Data Attribution (2:10pm - 2:30pm)<br><br>
-          10. Toward Global AI Inclusivity: A Large-Scale Multilingual Terminology Dataset (GIST) (2:30pm - 2:50pm)<br><br>
-          11. Mind the Gesture: Evaluating AI Sensitivity to Culturally Offensive Non-Verbal Gestures (2:50pm - 3:10pm)
+          6. Social Scaffolds: A Generalization Framework for Social Understanding Tasks (1:30pm - 1:50pm) [OpenReview](https://openreview.net/forum?id=aWjwjR8LU0) <br><br>
+          7. MICE for CATs: Model-Internal Confidence Estimation for Calibrating Agents with Tools (1:50pm - 2:10pm) [OpenReview](https://openreview.net/forum?id=22uOLJuRFR) <br><br>
+          8. On the Feasibility of In-Context Probing for Data Attribution (2:10pm - 2:30pm) [OpenReview](https://openreview.net/forum?id=X26lEPwenw) <br><br>
+          9. Toward Global AI Inclusivity: A Large-Scale Multilingual Terminology Dataset (GIST) (2:30pm - 2:50pm) [OpenReview](https://openreview.net/forum?id=QJhMo7EUSt) <br><br>
+          10. Mind the Gesture: Evaluating AI Sensitivity to Culturally Offensive Non-Verbal Gestures (2:50pm - 3:10pm) [OpenReview](https://openreview.net/forum?id=z7hDELXmHW)
         </td>
       </tr>
       <tr>
