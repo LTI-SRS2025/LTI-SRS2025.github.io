@@ -20,11 +20,11 @@ use-site-title: true
   <div class="row">
     <table class="table">
       <tr>
-        <td style="width: 180px;">10:00am - 10:10am</td>
+        <td style="width: 200px;">10:00am - 10:10am</td>
         <td>Opening Remarks</td>
       </tr>
       <tr>
-        <td style="width: 180px;">10:10am - 12:00pm</td>
+        <td style="width: 200px;">10:10am - 12:00pm</td>
   <td>
     Oral Presentations - Session 1<br><br>
 
@@ -50,11 +50,11 @@ use-site-title: true
   </td>
       </tr>
       <tr>
-        <td style="width: 180px;">12:00pm - 1:30pm</td>
+        <td style="width: 200px;">12:00pm - 1:30pm</td>
         <td>Poster Session & Lunch</td>
       </tr>
       <tr>
-        <td style="width: 180px;">1:30pm - 3:10pm</td>
+        <td style="width: 200px;">1:30pm - 3:10pm</td>
   <td>
     Oral Presentations - Session 2<br><br>
 
@@ -80,15 +80,15 @@ use-site-title: true
   </td>
       </tr>
       <tr>
-        <td style="width: 180px;">3:10pm - 3:30pm</td>
+        <td style="width: 200px;">3:10pm - 3:30pm</td>
         <td>Coffee Break</td>
       </tr>
       <tr>
-        <td style="width: 180px;">3:30pm - 4:30pm</td>
+        <td style="width: 200px;">3:30pm - 4:30pm</td>
         <td>Invited talk: Fairness and Privacy in High-Stakes NLP <a href="https://anjalief.github.io/">Anjalie Field</a>, JHU</td>
       </tr>
       <tr>
-        <td style="width: 180px;">4:30pm - 4:40pm</td>
+        <td style="width: 200px;">4:30pm - 4:40pm</td>
         <td>Close Remarks</td>
       </tr>
     </table>
